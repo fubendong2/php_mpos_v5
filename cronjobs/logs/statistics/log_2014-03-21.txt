@@ -1,0 +1,2286 @@
+2014-03-21 10:45:56 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:45:56 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:45:56 - INFO --> | getAllUserShares           |    0.012 | OK     |
+2014-03-21 10:45:56 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:45:56 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 10:45:56 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 10:46:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:46:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:46:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:46:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:46:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 10:46:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 10:47:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:47:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:47:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:47:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:47:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 10:47:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 10:49:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:49:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:49:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:49:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 10:49:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 10:49:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 10:50:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:50:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:50:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:50:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 10:50:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 10:50:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 10:54:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:54:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:54:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:54:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:54:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 10:54:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 10:55:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:55:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:55:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:55:04 - INFO --> | getAllUserMiningStats      |    0.002 | ERROR  |
+2014-03-21 10:55:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 10:55:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 10:56:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:56:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:56:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 10:56:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:56:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 10:56:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 10:59:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 10:59:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 10:59:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 10:59:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 10:59:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 10:59:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:01:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:01:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:01:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:01:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:01:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:01:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:02:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:02:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:02:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:02:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:02:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:02:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:05:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:05:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:05:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:05:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 11:05:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 11:05:05 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 11:08:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:08:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:08:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:08:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:08:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 11:08:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 11:09:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:09:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:09:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:09:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:09:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 11:09:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 11:10:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:10:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:10:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:10:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:10:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 11:10:06 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:11:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:11:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:11:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:11:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:11:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 11:11:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:12:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:12:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:12:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:12:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:12:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 11:12:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:13:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:13:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:13:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:13:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:13:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 11:13:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:15:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:15:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:15:04 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 11:15:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:15:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:15:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:16:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:16:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:16:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:16:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:16:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:16:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:18:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:18:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:18:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:18:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:18:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:18:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:19:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:19:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:19:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:19:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:19:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:19:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:20:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:20:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:20:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:20:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:20:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:20:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:21:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:21:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:21:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:21:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:21:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:21:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:22:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:22:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:22:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:22:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:22:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:22:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:23:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:23:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:23:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:23:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:23:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:23:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:24:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:24:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:24:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:24:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:24:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:24:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:27:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:27:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:27:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:27:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:27:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:27:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:28:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:28:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:28:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:28:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:28:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:28:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:29:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:29:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:29:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:29:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:29:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:29:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:30:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:30:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:30:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:30:04 - INFO --> | getAllUserMiningStats      |    0.003 | ERROR  |
+2014-03-21 11:30:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:30:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:31:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:31:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:31:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:31:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:31:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:31:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:32:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:32:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:32:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:32:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:32:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:32:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:33:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:33:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:33:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:33:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:33:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:33:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:34:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:34:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:34:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:34:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:34:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:34:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:36:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:36:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:36:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:36:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:36:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:36:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:37:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:37:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:37:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:37:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:37:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:37:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:40:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:40:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:40:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:40:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:40:06 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:40:06 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:44:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:44:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:44:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:44:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:44:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:44:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:45:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:45:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:45:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:45:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:45:03 - INFO --> | getTopContributors(hashes) |    0.002 | ERROR  |
+2014-03-21 11:45:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:46:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:46:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:46:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:46:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:46:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:46:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:47:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:47:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:47:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:47:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:47:02 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:47:02 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:48:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:48:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:48:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:48:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:48:02 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:48:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:49:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:49:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:49:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:49:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:49:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:49:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 11:50:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:50:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:50:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:50:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 11:50:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 11:50:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 11:52:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 11:52:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 11:52:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 11:52:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 11:52:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 11:52:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:03:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:03:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:03:02 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 12:03:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:03:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:03:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:04:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:04:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:04:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:04:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:04:02 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:04:02 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:05:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:05:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:05:03 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 12:05:03 - INFO --> | getAllUserMiningStats      |    0.002 | ERROR  |
+2014-03-21 12:05:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:05:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:06:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:06:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:06:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:06:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:06:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:06:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:07:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:07:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:07:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:07:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:07:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:07:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:08:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:08:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:08:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:08:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:08:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:08:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:09:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:09:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:09:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:09:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:09:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:09:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:10:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:10:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:10:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 12:10:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:10:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:10:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:13:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:13:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:13:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:13:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:13:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:13:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:14:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:14:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:14:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:14:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:14:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:14:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:16:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:16:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:16:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:16:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:16:02 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:16:02 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:17:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:17:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:17:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:17:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:17:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:17:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:20:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:20:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:20:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:20:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:20:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:20:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:21:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:21:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:21:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:21:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:21:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:21:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:23:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:23:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:23:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:23:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:23:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:23:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:24:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:24:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:24:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:24:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:24:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:24:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:26:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:26:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:26:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:26:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:26:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:26:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:28:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:28:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:28:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 12:28:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:28:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:28:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:29:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:29:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:29:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:29:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:29:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:29:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:30:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:30:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:30:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:30:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:30:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:30:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:32:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:32:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:32:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:32:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:32:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:32:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:35:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:35:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:35:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 12:35:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:35:03 - INFO --> | getTopContributors(hashes) |    0.003 | ERROR  |
+2014-03-21 12:35:03 - INFO --> | getTopContributors(shares) |    0.005 | ERROR  |
+2014-03-21 12:37:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:37:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:37:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:37:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:37:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:37:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:38:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:38:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:38:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:38:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:38:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:38:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:40:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:40:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:40:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:40:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:40:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:40:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:41:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:41:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:41:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:41:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:41:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:41:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:43:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:43:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:43:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:43:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:43:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:43:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:44:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:44:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:44:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:44:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:44:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:44:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:45:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:45:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:45:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:45:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:45:05 - INFO --> | getTopContributors(hashes) |    0.002 | ERROR  |
+2014-03-21 12:45:05 - INFO --> | getTopContributors(shares) |    0.002 | ERROR  |
+2014-03-21 12:46:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:46:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:46:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:46:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:46:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:46:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:47:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:47:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:47:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:47:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:47:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:47:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:48:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:48:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:48:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:48:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:48:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:48:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:49:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:49:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:49:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:49:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:49:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:49:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:50:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:50:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:50:04 - INFO --> | getAllUserShares           |    0.004 | OK     |
+2014-03-21 12:50:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:50:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:50:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:52:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:52:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:52:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:52:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:52:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:52:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:56:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:56:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:56:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:56:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 12:56:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 12:56:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 12:57:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:57:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:57:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:57:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:57:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:57:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 12:58:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 12:58:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 12:58:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 12:58:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 12:58:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 12:58:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:00:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:00:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:00:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:00:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:00:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:00:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:02:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:02:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:02:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:02:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:02:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:02:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:04:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:04:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:04:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:04:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:04:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:04:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:06:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:06:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:06:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:06:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:06:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:06:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:07:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:07:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:07:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:07:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:07:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:07:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:09:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:09:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:09:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:09:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:09:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:09:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:11:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:11:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:11:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:11:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:11:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:11:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:16:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:16:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:16:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:16:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:16:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:16:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:17:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:17:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:17:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:17:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:17:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:17:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:19:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:19:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:19:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:19:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:19:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:19:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:20:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:20:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:20:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:20:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:20:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:20:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:21:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:21:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:21:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:21:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:21:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:21:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:23:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:23:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:23:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:23:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:23:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:23:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:24:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:24:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:24:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:24:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:24:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:24:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:26:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:26:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:26:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:26:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:26:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:26:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:27:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:27:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:27:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:27:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:27:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:27:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:28:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:28:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:28:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:28:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:28:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:28:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:30:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:30:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:30:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:30:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:30:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:30:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:31:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:31:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:31:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:31:05 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:31:05 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:31:05 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:32:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:32:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:32:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:32:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:32:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:32:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:35:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:35:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:35:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:35:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:35:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:35:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:37:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:37:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:37:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:37:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:37:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:37:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:38:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:38:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:38:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:38:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:38:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:38:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:40:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:40:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:40:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:40:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:40:06 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:40:06 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:41:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:41:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:41:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:41:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:41:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:41:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:42:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:42:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:42:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:42:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:42:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:42:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:43:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:43:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:43:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:43:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:43:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:43:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:45:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:45:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:45:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:45:05 - INFO --> | getAllUserMiningStats      |    0.004 | ERROR  |
+2014-03-21 13:45:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:45:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:46:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:46:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:46:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:46:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:46:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:46:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:47:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:47:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:47:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:47:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:47:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:47:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:50:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:50:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:50:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:50:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:50:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:50:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 13:51:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:51:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:51:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:51:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:51:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:51:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:52:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:52:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:52:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:52:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:52:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:52:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:54:11 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:54:11 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:54:11 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:54:11 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 13:54:11 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:54:11 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:57:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:57:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:57:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:57:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:57:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 13:57:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 13:58:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 13:58:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 13:58:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 13:58:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 13:58:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 13:58:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:00:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:00:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:00:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:00:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:00:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:00:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:01:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:01:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:01:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:01:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:01:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:01:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:02:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:02:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:02:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:02:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:02:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:02:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:03:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:03:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:03:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:03:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:03:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:03:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:04:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:04:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:04:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:04:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 14:04:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:04:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:05:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:05:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:05:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:05:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:05:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:05:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:09:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:09:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:09:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:09:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:09:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:09:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:10:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:10:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:10:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:10:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:10:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:10:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:11:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:11:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:11:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:11:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:11:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:11:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:13:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:13:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:13:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 14:13:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:13:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:13:03 - INFO --> | getTopContributors(shares) |    0.004 | ERROR  |
+2014-03-21 14:16:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:16:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:16:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:16:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:16:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:16:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:18:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:18:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:18:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:18:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:18:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:18:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:24:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:24:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:24:04 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 14:24:04 - INFO --> | getAllUserMiningStats      |    0.004 | ERROR  |
+2014-03-21 14:24:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:24:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:25:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:25:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:25:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:25:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:25:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:25:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:26:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:26:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:26:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:26:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 14:26:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:26:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:27:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:27:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:27:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:27:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:27:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:27:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:31:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:31:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:31:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:31:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 14:31:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:31:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:32:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:32:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:32:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:32:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 14:32:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:32:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:33:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:33:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:33:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:33:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:33:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:33:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:34:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:34:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:34:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:34:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:34:05 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:34:05 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:35:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:35:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:35:05 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 14:35:05 - INFO --> | getAllUserMiningStats      |    0.007 | ERROR  |
+2014-03-21 14:35:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:35:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:38:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:38:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:38:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:38:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:38:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:38:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:40:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:40:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:40:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:40:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:40:06 - INFO --> | getTopContributors(hashes) |    0.005 | ERROR  |
+2014-03-21 14:40:06 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:42:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:42:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:42:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:42:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:42:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:42:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:44:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:44:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:44:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:44:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:44:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:44:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:47:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:47:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:47:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:47:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:47:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:47:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:48:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:48:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:48:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:48:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:48:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:48:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:49:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:49:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:49:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:49:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:49:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:49:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 14:53:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:53:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:53:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:53:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:53:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:53:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:54:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:54:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:54:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:54:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:54:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:54:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:57:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:57:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:57:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:57:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:57:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 14:57:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 14:59:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 14:59:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 14:59:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 14:59:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 14:59:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 14:59:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:00:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:00:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:00:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:00:07 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:00:07 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:00:07 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:02:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:02:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:02:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:02:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:02:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:02:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:03:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:03:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:03:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:03:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:03:05 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:03:05 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:04:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:04:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:04:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:04:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:04:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:04:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:06:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:06:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:06:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:06:03 - INFO --> | getAllUserMiningStats      |    0.003 | ERROR  |
+2014-03-21 15:06:03 - INFO --> | getTopContributors(hashes) |    0.002 | ERROR  |
+2014-03-21 15:06:03 - INFO --> | getTopContributors(shares) |    0.003 | ERROR  |
+2014-03-21 15:07:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:07:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:07:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:07:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:07:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:07:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:11:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:11:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:11:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:11:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:11:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:11:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:12:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:12:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:12:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:12:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:12:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:12:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:15:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:15:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:15:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:15:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:15:06 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:15:06 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:16:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:16:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:16:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:16:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:16:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:16:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:17:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:17:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:17:03 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 15:17:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:17:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:17:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:19:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:19:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:19:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:19:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:19:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:19:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:20:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:20:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:20:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:20:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:20:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:20:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:22:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:22:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:22:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:22:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:22:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:22:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:26:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:26:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:26:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:26:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:26:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:26:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:29:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:29:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:29:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:29:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:29:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:29:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:30:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:30:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:30:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:30:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:30:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:30:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:31:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:31:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:31:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:31:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:31:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:31:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:32:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:32:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:32:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:32:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:32:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:32:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:33:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:33:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:33:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:33:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:33:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:33:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:34:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:34:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:34:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:34:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:34:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:34:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:37:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:37:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:37:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:37:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:37:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:37:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:42:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:42:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:42:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:42:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:42:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:42:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:43:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:43:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:43:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:43:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:43:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:43:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:44:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:44:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:44:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:44:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:44:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:44:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:46:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:46:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:46:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:46:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:46:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:46:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:47:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:47:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:47:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:47:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:47:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:47:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:48:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:48:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:48:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:48:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 15:48:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:48:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:52:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:52:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:52:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:52:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:52:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:52:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:54:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:54:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:54:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:54:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:54:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:54:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 15:58:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:58:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:58:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:58:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:58:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 15:58:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 15:59:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 15:59:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 15:59:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 15:59:09 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 15:59:09 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 15:59:09 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:03:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:03:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:03:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:03:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:03:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:03:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:04:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:04:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:04:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:04:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:04:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:04:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:05:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:05:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:05:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:05:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:05:05 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:05:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:06:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:06:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:06:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:06:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:06:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:06:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:07:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:07:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:07:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:07:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:07:03 - INFO --> | getTopContributors(hashes) |    0.002 | ERROR  |
+2014-03-21 16:07:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:08:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:08:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:08:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:08:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:08:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:08:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:09:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:09:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:09:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:09:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:09:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:09:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:11:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:11:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:11:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:11:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:11:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:11:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:12:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:12:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:12:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:12:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:12:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:12:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:13:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:13:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:13:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:13:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:13:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:13:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:14:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:14:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:14:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:14:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:14:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:14:04 - INFO --> | getTopContributors(shares) |    0.002 | ERROR  |
+2014-03-21 16:16:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:16:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:16:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:16:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:16:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:16:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:18:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:18:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:18:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:18:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:18:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:18:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:25:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:25:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:25:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:25:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:25:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:25:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:26:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:26:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:26:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:26:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:26:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:26:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:29:01 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:29:01 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:29:01 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:29:01 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:29:01 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:29:01 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:31:01 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:31:01 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:31:01 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:31:01 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:31:01 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:31:01 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:32:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:32:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:32:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:32:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:32:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:32:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:34:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:34:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:34:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:34:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:34:03 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:34:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:35:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:35:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:35:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:35:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:35:04 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:35:04 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:36:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:36:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:36:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:36:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:36:03 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 16:36:03 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:39:01 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:39:01 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:39:01 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:39:01 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 16:39:01 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:39:01 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:41:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:41:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:41:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:41:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:41:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:41:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 16:43:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:43:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:43:02 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 16:43:02 - INFO --> | getAllUserMiningStats      |    0.002 | ERROR  |
+2014-03-21 16:43:02 - INFO --> | getTopContributors(hashes) |    0.002 | ERROR  |
+2014-03-21 16:43:02 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 16:47:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 16:47:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 16:47:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 16:47:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 16:47:04 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 16:47:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 17:27:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 17:27:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 17:27:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 17:27:02 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 17:27:02 - INFO --> | getTopContributors(hashes) |    0.000 | ERROR  |
+2014-03-21 17:27:02 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 17:30:02 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 17:30:02 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 17:30:02 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 17:30:02 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 17:30:02 - INFO --> | getTopContributors(hashes) |    0.001 | ERROR  |
+2014-03-21 17:30:02 - INFO --> | getTopContributors(shares) |    0.003 | ERROR  |
+2014-03-21 21:11:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:11:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:11:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:11:05 - INFO --> | getAllUserMiningStats      |    0.012 | OK     |
+2014-03-21 21:11:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:11:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:11:54 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:11:54 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:11:54 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:11:54 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:11:54 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:11:54 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:12:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:12:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:12:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:12:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:12:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:12:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:13:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:13:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:13:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:13:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:13:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:13:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:14:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:14:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:14:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:14:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:14:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:14:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:15:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:15:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:15:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:15:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:15:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:15:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:16:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:16:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:16:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:16:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:16:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:16:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:17:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:17:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:17:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:17:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:17:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:17:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:18:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:18:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:18:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:18:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:18:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:18:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:19:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:19:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:19:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:19:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:19:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:19:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:20:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:20:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:20:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:20:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:20:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:20:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:21:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:21:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:21:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:21:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:21:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:21:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:22:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:22:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:22:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:22:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:22:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:22:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:23:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:23:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:23:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:23:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:23:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:23:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:24:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:24:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:24:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:24:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:24:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:24:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:25:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:25:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:25:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:25:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:25:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:25:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:26:11 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:26:11 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:26:11 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:26:11 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:26:11 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:26:11 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:27:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:27:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:27:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:27:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:27:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:27:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:28:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:28:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:28:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:28:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:28:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:28:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:29:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:29:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:29:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:29:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:29:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:29:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:30:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:30:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:30:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:30:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:30:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:30:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:31:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:31:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:31:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:31:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:31:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:31:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:32:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:32:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:32:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:32:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:32:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:32:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:33:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:33:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:33:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:33:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:33:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:33:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:34:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:34:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:34:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:34:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:34:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:34:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:35:11 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:35:11 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:35:11 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:35:11 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:35:11 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:35:11 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 21:36:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:36:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:36:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:36:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:36:09 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:36:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:37:15 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:37:15 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:37:15 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:37:15 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:37:15 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:37:15 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:38:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:38:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:38:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:38:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:38:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:38:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:39:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:39:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:39:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:39:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:39:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:39:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:40:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:40:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:40:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:40:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:40:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:40:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:41:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:41:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:41:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:41:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:41:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:41:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:42:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:42:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:42:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:42:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:42:09 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:42:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:43:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:43:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:43:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:43:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:43:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:43:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:44:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:44:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:44:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:44:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:44:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:44:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:45:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:45:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:45:04 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 21:45:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:45:04 - INFO --> | getTopContributors(hashes) |    0.007 | OK     |
+2014-03-21 21:45:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 21:46:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:46:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:46:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:46:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:46:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:46:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:47:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:47:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:47:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:47:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:47:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:47:05 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 21:48:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:48:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:48:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:48:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:48:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:48:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:49:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:49:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:49:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:49:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:49:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:49:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:50:12 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:50:12 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:50:12 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:50:12 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:50:12 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:50:12 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:51:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:51:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:51:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:51:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:51:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:51:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:52:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:52:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:52:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:52:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:52:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:52:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:53:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:53:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:53:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:53:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:53:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:53:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:54:12 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:54:12 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:54:12 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:54:12 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:54:12 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:54:12 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:55:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:55:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:55:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:55:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:55:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:55:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:56:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:56:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:56:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:56:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:56:09 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:56:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:57:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:57:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:57:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:57:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:57:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:57:06 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 21:58:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:58:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:58:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:58:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:58:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 21:58:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 21:59:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 21:59:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 21:59:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 21:59:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 21:59:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 21:59:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:00:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:00:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:00:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:00:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:00:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:00:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:01:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:01:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:01:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:01:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:01:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:01:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:02:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:02:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:02:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:02:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:02:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:02:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:03:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:03:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:03:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:03:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:03:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:03:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:04:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:04:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:04:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:04:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:04:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:04:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:05:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:05:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:05:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:05:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:05:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:05:06 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:06:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:06:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:06:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:06:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:06:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:06:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:07:13 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:07:13 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:07:13 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:07:13 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:07:13 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:07:13 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:08:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:08:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:08:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:08:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:08:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:08:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:09:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:09:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:09:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:09:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:09:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:09:03 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:10:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:10:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:10:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:10:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:10:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:10:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:11:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:11:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:11:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:11:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:11:09 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:11:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:12:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:12:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:12:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:12:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:12:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:12:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:13:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:13:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:13:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:13:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:13:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:13:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:14:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:14:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:14:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:14:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:14:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:14:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:15:13 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:15:13 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:15:13 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:15:13 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:15:13 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:15:13 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:16:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:16:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:16:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:16:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:16:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:16:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:17:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:17:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:17:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:17:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:17:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:17:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:18:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:18:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:18:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:18:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:18:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:18:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:19:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:19:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:19:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:19:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:19:09 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:19:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:20:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:20:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:20:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:20:05 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 22:20:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:20:05 - INFO --> | getTopContributors(shares) |    0.001 | ERROR  |
+2014-03-21 22:21:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:21:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:21:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:21:04 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 22:21:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:21:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 22:22:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:22:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:22:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:22:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:22:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:22:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:23:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:23:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:23:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:23:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:23:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:23:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:24:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:24:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:24:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:24:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:24:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:24:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:25:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:25:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:25:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:25:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:25:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:25:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:26:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:26:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:26:05 - INFO --> | getAllUserShares           |    0.005 | OK     |
+2014-03-21 22:26:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:26:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:26:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:27:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:27:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:27:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:27:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:27:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:27:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:28:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:28:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:28:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:28:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:28:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:28:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:29:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:29:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:29:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:29:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:29:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:29:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:30:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:30:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:30:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:30:06 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 22:30:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:30:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:31:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:31:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:31:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:31:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:31:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:31:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:32:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:32:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:32:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:32:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:32:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:32:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:33:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:33:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:33:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:33:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:33:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:33:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:34:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:34:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:34:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:34:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:34:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:34:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:35:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:35:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:35:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:35:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:35:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:35:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:36:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:36:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:36:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:36:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:36:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:36:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:37:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:37:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:37:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:37:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:37:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:37:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:38:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:38:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:38:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:38:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:38:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:38:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:39:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:39:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:39:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:39:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:39:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:39:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:40:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:40:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:40:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:40:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:40:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:40:07 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:41:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:41:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:41:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:41:06 - INFO --> | getAllUserMiningStats      |    0.000 | OK     |
+2014-03-21 22:41:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:41:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:42:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:42:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:42:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:42:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:42:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:42:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:43:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:43:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:43:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:43:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:43:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:43:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:44:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:44:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:44:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:44:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:44:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:44:08 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:45:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:45:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:45:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:45:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:45:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:45:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:46:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:46:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:46:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:46:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:46:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:46:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:47:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:47:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:47:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:47:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:47:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:47:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:48:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:48:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:48:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:48:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:48:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:48:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:49:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:49:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:49:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:49:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:49:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:49:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:50:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:50:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:50:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:50:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:50:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:50:05 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:51:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:51:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:51:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:51:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:51:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:51:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:52:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:52:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:52:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:52:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:52:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:52:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:53:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:53:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:53:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:53:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:53:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:53:08 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:54:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:54:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:54:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:54:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:54:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:54:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:55:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:55:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:55:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:55:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:55:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:55:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:56:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:56:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:56:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:56:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:56:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:56:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:57:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:57:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:57:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:57:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:57:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:57:06 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 22:58:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:58:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:58:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:58:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:58:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 22:58:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 22:59:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 22:59:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 22:59:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 22:59:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 22:59:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 22:59:07 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:00:12 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:00:12 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:00:12 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:00:12 - INFO --> | getAllUserMiningStats      |    0.002 | OK     |
+2014-03-21 23:00:12 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:00:12 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:01:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:01:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:01:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:01:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:01:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:01:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:02:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:02:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:02:04 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 23:02:04 - INFO --> | getAllUserMiningStats      |    0.002 | OK     |
+2014-03-21 23:02:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:02:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:03:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:03:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:03:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:03:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:03:09 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:03:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:04:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:04:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:04:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:04:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:04:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:04:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:05:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:05:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:05:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:05:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:05:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:05:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:06:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:06:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:06:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:06:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:06:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:06:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:07:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:07:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:07:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:07:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:07:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:07:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:08:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:08:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:08:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:08:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:08:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:08:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:09:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:09:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:09:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:09:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:09:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:09:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:10:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:10:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:10:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:10:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:10:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:10:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:11:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:11:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:11:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:11:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:11:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:11:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:12:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:12:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:12:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:12:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:12:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:12:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:13:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:13:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:13:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:13:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:13:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:13:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:14:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:14:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:14:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:14:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:14:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:14:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:15:09 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:15:09 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:15:09 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:15:09 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:15:09 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:15:09 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:16:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:16:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:16:04 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 23:16:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:16:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:16:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:17:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:17:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:17:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:17:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:17:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:17:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:18:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:18:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:18:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:18:04 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 23:18:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:18:04 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 23:19:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:19:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:19:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:19:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:19:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:19:06 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:20:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:20:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:20:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:20:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:20:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:20:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:21:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:21:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:21:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:21:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:21:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:21:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:22:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:22:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:22:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:22:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 23:22:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:22:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:23:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:23:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:23:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:23:03 - INFO --> | getAllUserMiningStats      |    0.001 | ERROR  |
+2014-03-21 23:23:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:23:03 - INFO --> | getTopContributors(shares) |    0.000 | ERROR  |
+2014-03-21 23:24:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:24:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:24:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:24:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:24:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:24:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:25:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:25:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:25:06 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 23:25:06 - INFO --> | getAllUserMiningStats      |    0.002 | OK     |
+2014-03-21 23:25:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:25:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:26:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:26:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:26:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:26:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:26:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:26:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:27:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:27:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:27:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:27:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:27:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:27:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:28:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:28:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:28:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:28:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:28:07 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:28:07 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:29:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:29:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:29:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:29:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:29:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:29:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:30:14 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:30:14 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:30:14 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:30:14 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:30:14 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:30:14 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:31:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:31:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:31:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:31:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:31:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:31:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:32:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:32:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:32:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:32:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:32:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:32:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:33:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:33:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:33:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:33:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:33:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:33:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:34:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:34:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:34:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:34:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:34:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:34:04 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:35:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:35:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:35:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:35:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:35:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:35:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:36:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:36:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:36:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:36:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:36:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:36:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:37:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:37:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:37:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:37:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:37:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:37:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:38:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:38:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:38:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:38:03 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:38:03 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:38:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:39:03 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:39:03 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:39:03 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:39:03 - INFO --> | getAllUserMiningStats      |    0.000 | ERROR  |
+2014-03-21 23:39:03 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:39:03 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:40:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:40:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:40:07 - INFO --> | getAllUserShares           |    0.003 | OK     |
+2014-03-21 23:40:07 - INFO --> | getAllUserMiningStats      |    0.002 | ERROR  |
+2014-03-21 23:40:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:40:07 - INFO --> | getTopContributors(shares) |    0.004 | ERROR  |
+2014-03-21 23:41:07 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:41:07 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:41:07 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:41:07 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:41:07 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:41:07 - INFO --> | getTopContributors(shares) |    0.001 | OK     |
+2014-03-21 23:42:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:42:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:42:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:42:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:42:08 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:42:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:43:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:43:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:43:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:43:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:43:06 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:43:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:44:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:44:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:44:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:44:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:44:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:44:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:45:08 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:45:08 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:45:08 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:45:08 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:45:08 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:45:08 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:46:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:46:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:46:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:46:04 - INFO --> | getAllUserMiningStats      |    0.000 | OK     |
+2014-03-21 23:46:04 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:46:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:47:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:47:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:47:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:47:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:47:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:47:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:48:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:48:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:48:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:48:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:48:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:48:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:49:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:49:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:49:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:49:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:49:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:49:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:50:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:50:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:50:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:50:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:50:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:50:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:51:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:51:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:51:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:51:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:51:05 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:51:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:52:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:52:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:52:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:52:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:52:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:52:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:53:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:53:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:53:04 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:53:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:53:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:53:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:54:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:54:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:54:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:54:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:54:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:54:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:55:05 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:55:05 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:55:05 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:55:05 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:55:05 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:55:05 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:56:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:56:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:56:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:56:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:56:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:56:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:57:04 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:57:04 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:57:04 - INFO --> | getAllUserShares           |    0.002 | OK     |
+2014-03-21 23:57:04 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:57:04 - INFO --> | getTopContributors(hashes) |    0.001 | OK     |
+2014-03-21 23:57:04 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:58:06 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:58:06 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:58:06 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:58:06 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:58:06 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:58:06 - INFO --> | getTopContributors(shares) |    0.000 | OK     |
+2014-03-21 23:59:10 - INFO --> Running statistical queries, errors may just mean no shares were available
+2014-03-21 23:59:10 - INFO --> | Method                     |  Runtime | Status |
+2014-03-21 23:59:10 - INFO --> | getAllUserShares           |    0.001 | OK     |
+2014-03-21 23:59:10 - INFO --> | getAllUserMiningStats      |    0.001 | OK     |
+2014-03-21 23:59:10 - INFO --> | getTopContributors(hashes) |    0.000 | OK     |
+2014-03-21 23:59:10 - INFO --> | getTopContributors(shares) |    0.000 | OK     |

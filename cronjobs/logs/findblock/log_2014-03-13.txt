@@ -1,0 +1,6 @@
+2014-03-13 16:56:21 - INFO --> Starting RPC block detecion, blocks are stored in Database
+2014-03-13 16:56:21 - INFO --> | Blockhash            |          Height |     Amount | Confirmations |                Difficulty |               Time |
+2014-03-13 16:56:21 - INFO --> | e6aa8d776008a1277... |               1 |         10 |             1 |                0.00024414 | 2014-03-13 16:55:3 |
+2014-03-13 16:56:21 - INFO --> Starting block share detection, this may take a while
+2014-03-13 16:56:21 - INFO --> | Block ID |     Height |          Amount |   Share ID |                    Shares | Finder          | Worker          |               Type |
+2014-03-13 16:56:21 - INFO --> |        1 |          1 |              10 |          1 |                         2 | [1] fubendong   | fubendong.1     |  stratum_blockhash |

@@ -1,0 +1,8 @@
+2014-03-21 19:31:58 - WARN --> [ 183.7.145.242 ] [    login | none     ] [   34.68 ] : Bitminer has logged in with a different IP, saved is []
+2014-03-21 19:32:44 - INFO --> [ 183.7.145.242 ] [  account | edit     ] [   23.88 ] : Bitminer updated their account details
+2014-03-21 21:05:59 - WARN --> [ 221.223.232.248 ] [    login | none     ] [   23.44 ] : fubendong has logged in with a different IP, saved is [61.135.169.80]
+2014-03-21 22:17:17 - INFO --> [ 221.223.232.248 ] [  account | edit     ] [   29.13 ] : fubendong updated their account details
+2014-03-21 22:17:26 - INFO --> [ 221.223.232.248 ] [  account | edit     ] [   27.48 ] : fubendong requesting manual payout
+2014-03-21 22:18:13 - WARN --> [ 111.199.36.3 ] [    login | none     ] [   27.60 ] : 1580001997 has logged in with a different IP, saved is []
+2014-03-21 22:48:23 - WARN --> [ 101.226.89.120 ] [  account | workers  ] [   27.20 ] : Forcing logout, user is locked or IP changed mid session [hijack attempt?]
+2014-03-21 22:51:34 - WARN --> [ 180.153.214.191 ] [ dashboard | none     ] [   21.45 ] : Forcing logout, user is locked or IP changed mid session [hijack attempt?]
